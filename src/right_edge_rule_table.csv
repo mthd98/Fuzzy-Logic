@@ -1,0 +1,10 @@
+RFS,RBS,Speed,Direction
+N,N,S,L
+N,M,S,L
+N,F,S,L
+M,N,S,L
+M,M,M,S
+M,F,M,L
+F,N,M,R
+F,M,H,R
+F,F,S,R
